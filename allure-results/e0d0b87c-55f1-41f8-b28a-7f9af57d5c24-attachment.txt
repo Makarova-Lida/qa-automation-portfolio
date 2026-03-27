@@ -1,0 +1,23 @@
+[32mINFO    [0m conftest:conftest.py:21 Настраиваю опции браузера...
+[32mINFO    [0m conftest:conftest.py:29 Создаю драйвер...
+[32mINFO    [0m conftest:conftest.py:32 Передаю драйвер в тест...
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:31 Запуск case_4: Фильтрация курсов на Skillbox
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:35 Открываю страницу курсов Skillbox
+[35mDEBUG   [0m tests.test_skillbox:test_skillbox.py:37 Текущий URL: https://skillbox.ru/code/
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:41 Открываю фильтр курсов
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:45 ✓ Фильтр открыт
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:49 Выбираю тип курса: Профессия
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:52 ✓ Тип 'Профессия' выбран
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:56 Выбираю длительность: От 6 до 12 мес.
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:59 ✓ Длительность 'От 6 до 12 мес.' выбрана
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:64 Применяю выбранные фильтры
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:67 ✓ Фильтры применены
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:72 Ожидаю обновления списка курсов
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:77 Найдено курсов после фильтрации: 12
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:83 ============================================================
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:84 НАЙДЕННЫЕ КУРСЫ:
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:85 ============================================================
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:108 ✓ ТЕСТ ПРОЙДЕН: Курсы успешно отфильтрованы
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:109 ✓ Найдено 12 корректных курсов после фильтрации
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:114 Тест фильтрации курсов завершен успешно
+[32mINFO    [0m conftest:conftest.py:35 Закрываю браузер...

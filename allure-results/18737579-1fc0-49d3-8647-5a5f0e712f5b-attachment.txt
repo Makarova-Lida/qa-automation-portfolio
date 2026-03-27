@@ -1,0 +1,19 @@
+
+==================================================
+НАЧАЛО ТЕСТА
+[INFO][2026-01-02 18:54:53][conftest] Настраиваю опции браузера...
+[INFO][2026-01-02 18:54:53][WDM] ====== WebDriver manager ======
+[INFO][2026-01-02 18:54:54][WDM] Get LATEST chromedriver version for google-chrome
+[INFO][2026-01-02 18:54:55][WDM] Get LATEST chromedriver version for google-chrome
+[INFO][2026-01-02 18:54:56][WDM] Driver [C:\Users\skulr\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+[INFO][2026-01-02 18:54:56][conftest] Создаю драйвер...
+[INFO][2026-01-02 18:54:57][conftest] Передаю драйвер в тест...
+[INFO][2026-01-02 18:54:57][tests.test_github_graph] Запуск case_5: Проверка наведения на график коммитов
+[INFO][2026-01-02 18:55:02][tests.test_github_graph] Страница графика коммитов загружена
+[INFO][2026-01-02 18:55:02][tests.test_github_graph] Найдено элементов графика: 52
+[INFO][2026-01-02 18:55:04][tests.test_github_graph] Наведено на элемент графика #26
+[INFO][2026-01-02 18:55:04][tests.test_github_graph] Найдено значение в тултипе: 266
+[INFO][2026-01-02 18:55:04][tests.test_github_graph] ✓ Значение в тултипе успешно получено
+[INFO][2026-01-02 18:55:04][conftest] Закрываю браузер...
+КОНЕЦ ТЕСТА
+==================================================

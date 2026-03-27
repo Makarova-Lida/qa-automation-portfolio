@@ -1,0 +1,10 @@
+[INFO][2026-01-05 19:04:18,876][conftest] Запускаю браузер Playwright...
+[INFO][2026-01-05 19:04:19,951][conftest] Браузер запущен
+[INFO][2026-01-05 19:04:20,133][conftest] Страница создана и настроена
+[INFO][2026-01-05 19:04:20,136][tests.test_github_issues] Запуск case_1: Поиск issues с 'bug' в заголовке и проверка результатов
+[INFO][2026-01-05 19:04:26,344][tests.test_github_issues] Страница загружена: Issues · microsoft/vscode · GitHub
+[INFO][2026-01-05 19:04:27,177][tests.test_github_issues] 🔍 Выполняю поиск: 'in:title bug'
+[INFO][2026-01-05 19:04:27,748][tests.test_github_issues] Поиск выполнен
+[INFO][2026-01-05 19:04:29,786][tests.test_github_issues] Найдено задач: 25
+[INFO][2026-01-05 19:04:30,002][tests.test_github_issues] Задач с 'bug': 25 из 25
+[INFO][2026-01-05 19:04:30,003][tests.test_github_issues] ТЕСТ ПРОЙДЕН: Все задачи содержат слово 'bug' в заголовке

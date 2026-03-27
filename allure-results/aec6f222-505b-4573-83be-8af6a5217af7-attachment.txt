@@ -1,0 +1,12 @@
+[32mINFO    [0m conftest:conftest.py:19 Запускаю браузер Playwright...
+[32mINFO    [0m conftest:conftest.py:27 Браузер запущен
+[32mINFO    [0m conftest:conftest.py:40 Страница создана и настроена
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:25 Запуск case_4: Фильтрация курсов на Skillbox
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:29 Открываю страницу курсов Skillbox
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:41 Выбираю тип курса: Профессия
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:43 ✓ Тип 'Профессия' выбран
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:47 Выбираю длительность: От 6 до 12 мес.
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:51 ✓ Длительность 'От 6 до 12 мес.' выбрана
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:56 Ожидаю обновления списка курсов
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:63 Найдено карточек: 12
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:104 ТЕСТ ПРОЙДЕН: Все курсы соответствуют фильтру длительности

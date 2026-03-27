@@ -1,0 +1,21 @@
+[32mINFO    [0m conftest:conftest.py:21 Настраиваю опции браузера...
+[32mINFO    [0m conftest:conftest.py:29 Создаю драйвер...
+[32mINFO    [0m conftest:conftest.py:32 Передаю драйвер в тест...
+[32mINFO    [0m tests.test_github_issues:test_github_issues.py:78 Запуск case_2: Фильтрация по автору bpasero и проверка результатов
+[35mDEBUG   [0m tests.test_github_issues:test_github_issues.py:89 Страница с issues загружена
+[32mINFO    [0m tests.test_github_issues:test_github_issues.py:146 Применяю фильтр по автору: 'bpasero'
+[35mDEBUG   [0m tests.test_github_issues:test_github_issues.py:152 Открыт фильтр по автору
+[35mDEBUG   [0m tests.test_github_issues:test_github_issues.py:162 Введено имя автора: bpasero
+[35mDEBUG   [0m tests.test_github_issues:test_github_issues.py:168 Автор bpasero выбран
+[32mINFO    [0m tests.test_github_issues:test_github_issues.py:171 Фильтр по автору 'bpasero' применен
+[32mINFO    [0m tests.test_github_issues:test_github_issues.py:94 Фильтр по автору применен
+[32mINFO    [0m tests.test_github_issues:test_github_issues.py:99 Найдено задач автора bpasero: 25
+[35mDEBUG   [0m tests.test_github_issues:test_github_issues.py:103 Задача 0: bpasero
+[35mDEBUG   [0m tests.test_github_issues:test_github_issues.py:103 Задача 1: bpasero
+[35mDEBUG   [0m tests.test_github_issues:test_github_issues.py:103 Задача 2: bpasero
+[35mDEBUG   [0m tests.test_github_issues:test_github_issues.py:103 Задача 3: bpasero
+[35mDEBUG   [0m tests.test_github_issues:test_github_issues.py:103 Задача 4: bpasero
+[35mDEBUG   [0m tests.test_github_issues:test_github_issues.py:109 Значение фильтра: is:issue state:open author:bpasero
+[32mINFO    [0m tests.test_github_issues:test_github_issues.py:112 Фильтр по автору применен и содержит 'bpasero' в value
+[32mINFO    [0m tests.test_github_issues:test_github_issues.py:118 ТЕСТ ПРОЙДЕН: Фильтрация по автору bpasero работает корректно
+[32mINFO    [0m conftest:conftest.py:35 Закрываю браузер...

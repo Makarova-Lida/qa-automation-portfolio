@@ -1,0 +1,36 @@
+[32mINFO    [0m conftest:conftest.py:19 Запускаю браузер Playwright...
+[32mINFO    [0m conftest:conftest.py:27 Браузер запущен
+[32mINFO    [0m conftest:conftest.py:40 Страница создана и настроена
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:27 Запуск case_4: Фильтрация курсов на Skillbox
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:31 Открываю страницу курсов Skillbox
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:50 Выбираю тип курса: Профессия
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:52 ✓ Тип 'Профессия' выбран
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:56 Выбираю длительность: От 6 до 12 мес.
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:60 ✓ Длительность 'От 6 до 12 мес.' выбрана
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:73 Ожидаю обновления списка курсов
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:78 Найдено курсов после фильтрации: 10
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:84 ============================================================
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:85 НАЙДЕННЫЕ КУРСЫ:
+[32mINFO    [0m tests.test_skillbox:test_skillbox.py:86 ============================================================
+[31m[1mERROR   [0m tests.test_skillbox:test_skillbox.py:106 Курс #0: Ошибка при извлечении данных: Locator.text_content: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("a[href^=\"/course/profession\"]").first.locator("h3, h2, [class*=\"title\"], [class*=\"name\"]").first
+
+[31m[1mERROR   [0m tests.test_skillbox:test_skillbox.py:106 Курс #1: Ошибка при извлечении данных: Locator.text_content: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("a[href^=\"/course/profession\"]").nth(1).locator("h3, h2, [class*=\"title\"], [class*=\"name\"]").first
+
+[31m[1mERROR   [0m tests.test_skillbox:test_skillbox.py:106 Курс #2: Ошибка при извлечении данных: Locator.text_content: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("a[href^=\"/course/profession\"]").nth(2).locator("h3, h2, [class*=\"title\"], [class*=\"name\"]").first
+
+[31m[1mERROR   [0m tests.test_skillbox:test_skillbox.py:106 Курс #3: Ошибка при извлечении данных: Locator.text_content: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("a[href^=\"/course/profession\"]").nth(3).locator("h3, h2, [class*=\"title\"], [class*=\"name\"]").first
+
+[31m[1mERROR   [0m tests.test_skillbox:test_skillbox.py:106 Курс #4: Ошибка при извлечении данных: Locator.text_content: Target page, context or browser has been closed
+[31m[1mERROR   [0m tests.test_skillbox:test_skillbox.py:106 Курс #5: Ошибка при извлечении данных: Locator.text_content: Target page, context or browser has been closed
+[31m[1mERROR   [0m tests.test_skillbox:test_skillbox.py:106 Курс #6: Ошибка при извлечении данных: Locator.text_content: Target page, context or browser has been closed
+[31m[1mERROR   [0m tests.test_skillbox:test_skillbox.py:106 Курс #7: Ошибка при извлечении данных: Locator.text_content: Target page, context or browser has been closed
+[31m[1mERROR   [0m tests.test_skillbox:test_skillbox.py:106 Курс #8: Ошибка при извлечении данных: Locator.text_content: Target page, context or browser has been closed
+[31m[1mERROR   [0m tests.test_skillbox:test_skillbox.py:106 Курс #9: Ошибка при извлечении данных: Locator.text_content: Target page, context or browser has been closed

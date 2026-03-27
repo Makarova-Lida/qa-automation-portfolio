@@ -1,0 +1,9 @@
+[32mINFO    [0m conftest:conftest.py:19 Запускаю браузер Playwright...
+[32mINFO    [0m conftest:conftest.py:27 Браузер запущен
+[32mINFO    [0m conftest:conftest.py:40 Страница создана и настроена
+[32mINFO    [0m tests.test_github_graph:test_github_graph.py:22 Запуск case_5: Проверка наведения на график коммитов
+[32mINFO    [0m tests.test_github_graph:test_github_graph.py:27 Страница графика коммитов загружена
+[32mINFO    [0m tests.test_github_graph:test_github_graph.py:39 Найдено элементов графика: 52
+[32mINFO    [0m tests.test_github_graph:test_github_graph.py:55 Наведено на элемент графика #26
+[32mINFO    [0m tests.test_github_graph:test_github_graph.py:63 Найдено значение в тултипе: 379
+[32mINFO    [0m tests.test_github_graph:test_github_graph.py:67 ✓ Значение в тултипе успешно получено

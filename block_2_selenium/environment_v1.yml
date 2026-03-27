@@ -1,0 +1,11 @@
+name: test_env_v1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pytest
+  - selenium
+  - pip
+  - pip:
+    - webdriver-manager

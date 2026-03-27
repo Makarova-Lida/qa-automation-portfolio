@@ -1,0 +1,11 @@
+[INFO][2026-01-05 19:04:30,365][conftest] Запускаю браузер Playwright...
+[INFO][2026-01-05 19:04:31,812][conftest] Браузер запущен
+[INFO][2026-01-05 19:04:32,055][conftest] Страница создана и настроена
+[INFO][2026-01-05 19:04:32,057][tests.test_github_issues] Запуск case_2: Фильтрация по автору bpasero и проверка результатов
+[INFO][2026-01-05 19:04:34,688][tests.test_github_issues] Страница с issues загружена
+[INFO][2026-01-05 19:04:35,388][tests.test_github_issues] Применяю фильтр по автору: 'bpasero'
+[INFO][2026-01-05 19:04:36,285][tests.test_github_issues] Фильтр по автору 'bpasero' применен
+[INFO][2026-01-05 19:04:36,285][tests.test_github_issues] Фильтр по автору применен
+[INFO][2026-01-05 19:04:38,320][tests.test_github_issues] Найдено задач: 25
+[INFO][2026-01-05 19:04:38,331][tests.test_github_issues] Найдено элементов автора: 25
+[INFO][2026-01-05 19:04:38,485][tests.test_github_issues] ТЕСТ ПРОЙДЕН: Фильтрация по автору bpasero работает корректно

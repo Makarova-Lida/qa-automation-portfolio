@@ -1,0 +1,10 @@
+[32mINFO    [0m conftest:conftest.py:19 Запускаю браузер Playwright...
+[32mINFO    [0m conftest:conftest.py:27 Браузер запущен
+[32mINFO    [0m conftest:conftest.py:40 Страница создана и настроена
+[32mINFO    [0m tests.test_github_issues:test_github_issues.py:24 Запуск case_1: Поиск issues с 'bug' в заголовке и проверка результатов
+[32mINFO    [0m tests.test_github_issues:test_github_issues.py:29 Страница загружена: Issues · microsoft/vscode · GitHub
+[32mINFO    [0m tests.test_github_issues:test_github_issues.py:40 🔍 Выполняю поиск: 'in:title bug'
+[32mINFO    [0m tests.test_github_issues:test_github_issues.py:44 Поиск выполнен
+[32mINFO    [0m tests.test_github_issues:test_github_issues.py:63 Найдено задач: 25
+[32mINFO    [0m tests.test_github_issues:test_github_issues.py:84 Задач с 'bug': 25 из 25
+[32mINFO    [0m tests.test_github_issues:test_github_issues.py:89 ТЕСТ ПРОЙДЕН: Все задачи содержат слово 'bug' в заголовке

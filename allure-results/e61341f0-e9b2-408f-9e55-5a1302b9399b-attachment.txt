@@ -1,0 +1,10 @@
+[32mINFO    [0m conftest:conftest.py:19 Запускаю браузер Playwright...
+[32mINFO    [0m conftest:conftest.py:27 Браузер запущен
+[32mINFO    [0m conftest:conftest.py:40 Страница создана и настроена
+[32mINFO    [0m tests.test_github_issues:test_github_issues.py:91 Запуск case_2: Фильтрация по автору bpasero и проверка результатов
+[32mINFO    [0m tests.test_github_issues:test_github_issues.py:160 Применяю фильтр по автору: 'bpasero'
+[32mINFO    [0m tests.test_github_issues:test_github_issues.py:179 Фильтр по автору 'bpasero' применен
+[32mINFO    [0m tests.test_github_issues:test_github_issues.py:106 Фильтр по автору применен
+[32mINFO    [0m tests.test_github_issues:test_github_issues.py:113 Найдено задач: 25
+[32mINFO    [0m tests.test_github_issues:test_github_issues.py:119 Найдено элементов автора: 25
+[32mINFO    [0m tests.test_github_issues:test_github_issues.py:138 ТЕСТ ПРОЙДЕН: Фильтрация по автору bpasero работает корректно

@@ -1,0 +1,19 @@
+[INFO][2026-01-05 19:09:40,353][conftest] Запускаю браузер Playwright...
+[INFO][2026-01-05 19:09:41,604][conftest] Браузер запущен
+[INFO][2026-01-05 19:09:41,796][conftest] Страница создана и настроена
+[INFO][2026-01-05 19:09:41,800][tests.test_github_search] Запуск case_3: Расширенный поиск репозиториев с Python, >20000 звезд и файлом environment.yml
+[INFO][2026-01-05 19:09:44,621][tests.test_github_search] Страница поиска загружена
+[INFO][2026-01-05 19:09:45,314][tests.test_github_search] Заполняю форму поиска...
+[INFO][2026-01-05 19:09:45,484][tests.test_github_search] ✓ Язык выбран: Python
+[INFO][2026-01-05 19:09:45,813][tests.test_github_search] ✓ Количество звезд указано: >20000
+[INFO][2026-01-05 19:09:46,138][tests.test_github_search] ✓ Имя файла указано: environment.yml
+[INFO][2026-01-05 19:09:46,138][tests.test_github_search] Форма поиска заполнена
+[INFO][2026-01-05 19:09:47,529][tests.test_github_search] Кнопка поиска нажата
+[INFO][2026-01-05 19:09:47,530][tests.test_github_search] Ожидаю загрузки результатов поиска...
+[INFO][2026-01-05 19:09:48,295][tests.test_github_search] ✓ Результаты поиска загружены
+[INFO][2026-01-05 19:09:48,496][tests.test_github_search] 
+Найдено репозиториев: 0
+[WARNING][2026-01-05 19:09:48,497][tests.test_github_search] Результаты поиска не найдены
+[INFO][2026-01-05 19:09:48,497][tests.test_github_search] ✓ Все проверенные репозитории соответствуют условию (>20000 звезд)
+[INFO][2026-01-05 19:09:48,498][tests.test_github_search] ✓ Успешно проверено репозиториев: 0
+[INFO][2026-01-05 19:09:48,498][tests.test_github_search] Тест расширенного поиска завершен
